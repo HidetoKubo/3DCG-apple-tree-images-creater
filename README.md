@@ -1,2 +1,4 @@
-# 3DCG-tree-images-creater
-This is the system which can create 3D apple images by Blender.
+# 3DCGリンゴ樹木画像 自動生成システム
+# 概要
+これは、深層学習を用いてリンゴ形状の検出を行えるようにするため、3DCGのリンゴ樹木の学習データ画像を自動生成するシステムです。
+具体的には、Blender(2.93)内で
