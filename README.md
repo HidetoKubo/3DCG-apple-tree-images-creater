@@ -1,2 +1,2 @@
 # 3DCG-tree-images-creater
-You can create 3D apple tree images by this system.
+This is the system which can create 3D apple images by Blender.
