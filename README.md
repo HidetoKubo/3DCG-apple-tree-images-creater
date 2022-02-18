@@ -4,4 +4,6 @@
 具体的には、Blender (2.93) 内でPythonスクリプトを実行し、自動で画像のレンダリングを行っています。
 
 # デモ動画
-print("hello")
+
+# 生成できる画像
+![Cycles](https://user-images.githubusercontent.com/98790632/154609642-a3ea4864-92b6-466e-af3c-151c2f581357.png)
