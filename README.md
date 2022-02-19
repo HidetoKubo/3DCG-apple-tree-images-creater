@@ -13,3 +13,6 @@ BlenderとPythonを用いて、リンゴの3DCG樹木画像と教師データを
 
 # 生成できる画像
 ![Cycles](https://user-images.githubusercontent.com/98790632/154609642-a3ea4864-92b6-466e-af3c-151c2f581357.png)
+
+# 使い方 動画
+
