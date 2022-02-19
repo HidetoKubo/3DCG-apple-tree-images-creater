@@ -16,3 +16,8 @@ BlenderとPythonを用いて、リンゴの3DCG樹木画像と教師データを
 
 # 使い方 動画
 
+# テスト環境
+Windows10
+
+# 使用技術、サービス
+Blender(2.93), Python, 
