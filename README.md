@@ -22,16 +22,16 @@ https://user-images.githubusercontent.com/98790632/155083376-624fa457-8af9-428e-
 ![apple_depth](https://user-images.githubusercontent.com/98790632/155056304-45122e0a-9e11-4673-8753-50745db41ed5.png)
 
 # アップロードファイルの説明
-・「Apple_images_creator.blend」: 3DCGリンゴ画像と深度マップを生成するBlenderファイル。
+・「Apple_images_creator.blend」: 3DCGリンゴ画像と深度マップを生成するBlenderファイル。スクリプト内にて出力のパスを変更する必要がある。
 
-・「Annotation_creator.py」: 生成した深度マップを基にアノテーションデータを生成するファイル。
+・「Annotation_creator.py」: 生成した深度マップを基にアノテーションデータを生成するファイル。入力、出力のパスを変更する必要がある。
 
 ・「texture.zip」：Blenderファイル内で用いるテクスチャ画像が入ったフォルダ。「Apple_images_creator.blend」と同じディレクトリに入れておく必要がある。
 
-・「」
+・「add_curve_sapling_3_2_8.zip」: Blenderの外部アドオン(拡張)機能が入ったフォルダ。下記サイトのような手順で、あらかじめBlenderで使えるようにする必要がある。
+https://bookyakuno.com/how-to-install-addon/
 
-# 設定
-ファイルを実行するにあたって、いくつかの
+・「Apple_images_creator_script.py」：「Apple_images_creator.blend」のスクリプト。実行の必要はありません。参考程度にご覧ください。
 
 # テスト環境
 Windows10
