@@ -4,12 +4,8 @@
 BlenderとPythonを用いて、リンゴの3DCG樹木画像と葉に隠れたリンゴの教師データを生成することができます。
 
 具体的には、以下のような手順で学習データが生成できます。
-1. Blender (2.93) 内でスクリプトを実行し、リンゴの3DCG樹木画像とリンゴ・樹木の深度マップを生成
-2. Pythonファイルを実行し、リンゴ・樹木の深度マップを基に、葉に隠れた果実の教師データを生成
-
-「Apple_images_creator.Blender」というBlenderファイルのスクリプトを実行することで、リンゴの3DCG樹木画像、樹木のデプスマップ、果実のデプスマップが生成されます。
-また、「mask_images_creator.py」というPythonファイルを実行することで、「seisei.json」というマスクデータの出力ファイルが生成されます。
-
+1. Blender (2.93)ファイル「Apple_images_creator.blend」内でPythonスクリプトを実行し、リンゴの3DCG樹木画像とリンゴ・樹木の深度マップを生成
+2. Pythonファイル「Annotation_creator.py」を実行し、リンゴ・樹木の深度マップを基に、葉に隠れた果実の教師データ「seisei.json」ファイルを生成
 
 # デモ動画
 
