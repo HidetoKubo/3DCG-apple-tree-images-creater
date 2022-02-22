@@ -13,6 +13,8 @@ BlenderとPythonを用いて、リンゴの3DCG樹木画像と葉に隠れたリ
 
 ![tree](https://user-images.githubusercontent.com/98790632/155055961-0a3a2b3a-aefe-4443-8b7a-fe93a46bd81c.png)
 
+![tree_深度マップ](https://user-images.githubusercontent.com/98790632/155056041-fa103e4d-2576-4936-8ab4-d660f88f2ebd.png)
+
 
 # 使い方 動画
 
