@@ -7,7 +7,11 @@ BlenderとPythonを用いて、リンゴの3DCG樹木画像と葉に隠れたリ
 1. Blender (2.93)ファイル「Apple_images_creator.blend」内でPythonスクリプトを実行し、リンゴの3DCG樹木画像とリンゴ・樹木の深度マップを生成
 2. Pythonファイル「Annotation_creator.py」を実行し、リンゴ・樹木の深度マップを基に、葉に隠れた果実の教師データ「seisei.json」ファイルを生成
 
+# システム紹介動画
+https://user-images.githubusercontent.com/98790632/155083360-8efa7880-360f-4927-93d0-efa7ac0be556.mp4
+
 # デモ動画
+https://user-images.githubusercontent.com/98790632/155083376-624fa457-8af9-428e-a997-3d402e9011bd.mp4
 
 # 生成できる画像
 
@@ -18,7 +22,7 @@ BlenderとPythonを用いて、リンゴの3DCG樹木画像と葉に隠れたリ
 ![apple_depth](https://user-images.githubusercontent.com/98790632/155056304-45122e0a-9e11-4673-8753-50745db41ed5.png)
 
 
-# 使い方 動画
+# 使い方
 
 # テスト環境
 Windows10
