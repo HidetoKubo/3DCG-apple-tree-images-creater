@@ -21,8 +21,17 @@ https://user-images.githubusercontent.com/98790632/155083376-624fa457-8af9-428e-
 
 ![apple_depth](https://user-images.githubusercontent.com/98790632/155056304-45122e0a-9e11-4673-8753-50745db41ed5.png)
 
+# アップロードファイルの説明
+・「Apple_images_creator.blend」: 3DCGリンゴ画像と深度マップを生成するBlenderファイル。
 
-# 使い方
+・「Annotation_creator.py」: 生成した深度マップを基にアノテーションデータを生成するファイル。
+
+・「texture.zip」：Blenderファイル内で用いるテクスチャ画像が入ったフォルダ。「Apple_images_creator.blend」と同じディレクトリに入れておく必要がある。
+
+・「」
+
+# 設定
+ファイルを実行するにあたって、いくつかの
 
 # テスト環境
 Windows10
